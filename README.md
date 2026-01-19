@@ -1,9 +1,5 @@
 # Modular & Type-Safe Localization in SwiftUI 🌍
 
-![Swift](https://img.shields.io/badge/Swift-5.9+-orange.svg)
-![Platform](https://img.shields.io/badge/Platform-iOS%2017.0+-lightgrey.svg)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-
 Büyük ölçekli SwiftUI projelerinde **String Catalogs (.xcstrings)** kullanarak oluşturulmuş, modüler, ölçeklenebilir ve tip güvenli (type-safe) 
 yerelleştirme mimarisi örneği.
 
