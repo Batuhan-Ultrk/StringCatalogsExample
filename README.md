@@ -104,4 +104,4 @@ Text("cart_item_count".localizedWithParameter(table: .shared, 3))
 
 ## 📖 İlgili Makale
 Bu mimarinin detaylarını ve arkasındaki mantığı anlattığım Medium yazısına buradan ulaşabilirsiniz: 
-[SwiftUI'da Sürdürülebilir Yerelleştirme: Modüler ve Tip Güvenli .xcstrings (String Catalogs) Mimarisi](LINK_BURAYA)
+[SwiftUI’da Sürdürülebilir Yerelleştirme: Modüler ve Tip Güvenli .xcstrings (String Catalogs) Mimarisi](https://medium.com/@batuhanuluturk1463/swiftuida-sürdürülebilir-yerelleştirme-modüler-ve-tip-güvenli-xcstrings-760091587c43)
